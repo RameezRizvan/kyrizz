@@ -1,2 +1,2 @@
 # kyrizz
-Website for Kyrizz Hoestay
+Website for Kyrizz Homestay
